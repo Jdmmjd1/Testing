@@ -9,11 +9,8 @@ School for Advanced Digital Technology
 
 Southern Alberta Institute of Technology
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20px"/>
 
-
-<a href="Source(https://www.linkedin.com/in/diane-schultze-863053295)"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="50px" alt="Linkedin"></a>
-    &nbsp;
-
+<a href="https://github.com/jellyfin/jellyfin/releases">
+<img alt="Current Release" src="https://img.shields.io/github/release/jellyfin/jellyfin.svg"/>
 
 <a href="https://www.linkedin.com/in/diane-schultze-863053295"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20px" alt="LinkedIn Logo"></a>
