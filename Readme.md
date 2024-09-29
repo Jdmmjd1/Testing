@@ -16,4 +16,4 @@ Southern Alberta Institute of Technology
     &nbsp;
 
 
-<a href="https://www.jetbrains.com"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20px" alt="LinkedIn Logo"></a>
+<a href="https://www.linkedin.com/in/diane-schultze-863053295"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20px" alt="LinkedIn Logo"></a>
