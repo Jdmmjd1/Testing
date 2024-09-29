@@ -21,6 +21,7 @@ Southern Alberta Institute of Technology
 
 [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&color=FF69B4)](https://www.linkedin.com/in/diane-schultze-863053295)
 
+[![Facebook Profile](https://img.shields.io/badge/Facebook-Profile-000000?style=flat&logo=facebook&logoColor=white&color=FF69B4)](https://www.facebook.com/DnSchltz)
 
 
 
